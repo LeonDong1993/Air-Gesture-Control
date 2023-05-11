@@ -1,0 +1,12 @@
+
+dataset:
+  dataset_annotations: ./output//annotations/
+  dataset_folder: ./output//imgs/
+  phases: [train, test]
+  targets:
+    - fist
+    - like
+    - ok
+    - one
+    - peace
+    - stop

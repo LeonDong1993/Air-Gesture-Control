@@ -1,0 +1,11 @@
+{
+    "up": "volumeup",
+    "left": "prevtrack",
+    "right": "nexttrack",
+    "down": "volumedown",
+    "ok":"win,down",
+    "stop": "volumemute",
+    "one": "prevtrack",
+    "peace": "nexttrack",
+    "like": "playpause"
+}
